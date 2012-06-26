@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
    <head>
       
-      <meta http-equiv="X-UA-Compatible" content="IE=7" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
       
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       
@@ -93,7 +93,7 @@ border: none; background: none; font-weight: none; color: none; }
     background: #C6C6C6; /* old browsers */
     background: -moz-linear-gradient(top, #C6C6C6 0%, #D8D8D8 100%); /* firefox */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#C6C6C6), color-stop(100%,#D8D8D8)); /* webkit */
-    -webkit-border-radius:15px; -moz-border-radius:10px;
+    border-radius:15px;
     border: 1px solid #f1f1f1;
 }    
 .ui-corner-all { border-radius: 0 0 0 0; }
@@ -188,7 +188,7 @@ border: none; background: none; font-weight: none; color: none; }
                   <li><a href="#treeDiv" style="outline:0;" tabindex="1"><span class="contentsTab">Contents</span></a></li>
                   <li><a href="#searchDiv" style="outline:0;" tabindex="1" onclick="doSearch()"><span class="searchTab">Search</span></a></li>
                </ul>
-               <div id="treeDiv"><img src="../common/images/loading.gif" alt="loading table of contents..." id="tocLoading" style="display:block;" /><div id="ulTreeDiv" style="display:none">
+               <div id="treeDiv"><img src="../common/images/loading.gif" alt="loading table of contents..." id="tocLoading" style="display:block;" /><div id="ulTreeDiv" style="display:block;">
                      <ul id="tree" class="filetree">
                         <li><span class="file"><a href="ch01.html" tabindex="1">Introduction</a></span></li>
                         <li id="webhelp-currentid"><span class="file"><a href="ch02.html" tabindex="1">Using the package</a></span><ul>
