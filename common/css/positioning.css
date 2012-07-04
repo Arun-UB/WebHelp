@@ -162,7 +162,7 @@ font-weight: normal;
 }
 .searchresult li { color: #0050A0; }
 .shortdesclink { color: gray; font-size: 9pt; }
-.searchText { float:left;width:160px; }
+.searchText { float:left;width:150px; }
 .searchButton {
     padding: 2px 12px 2px 12px;
     background-color:#bbb;
