@@ -162,16 +162,18 @@ font-weight: normal;
 }
 .searchresult li { color: #0050A0; }
 .shortdesclink { color: gray; font-size: 9pt; }
-.searchText { width: 11em }
+.searchText { float:left;width:160px; }
 .searchButton {
-    margin-left: 3px;
-    background:url(../common/images/search-icon.png) no-repeat ;
-    color: black;
-    border: #ACCEAF solid 1pt;
+    padding: 2px 12px 2px 12px;
+    background-color:#bbb;
+    border:#bbb solid 1pt;
     font-weight: bold;
     font-size: 10pt
 }
-.searchFieldSet { border: 1px solid #BFBAB0; background-color: #F2EFE9;}
+.searchButton:hover{
+    background-color: #cccccc;
+}
+.searchFieldSet {}
 
 .title, div.toc>p{ font-weight: bold; }	
 
@@ -370,3 +372,4 @@ div.note *, div.caution *, div.important *, div.tip *, div.warning * {
     }
 
 }
+
