@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/common/images/admon
+END
+tip.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/common/images/admon/tip.png
+END
+important.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/common/images/admon/important.png
+END
+caution.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/common/images/admon/caution.png
+END
+note.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/common/images/admon/note.png
+END
+warning.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/common/images/admon/warning.png
+END

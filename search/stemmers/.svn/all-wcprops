@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/content/search/stemmers
+END
+de_stemmer.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/content/search/stemmers/de_stemmer.js
+END
+en_stemmer.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/docbook/!svn/ver/9308/branches/webhelp/xsl/webhelp/template/content/search/stemmers/en_stemmer.js
+END
+fr_stemmer.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/docbook/!svn/ver/8830/branches/webhelp/xsl/webhelp/template/content/search/stemmers/fr_stemmer.js
+END
